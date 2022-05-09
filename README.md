@@ -23,7 +23,13 @@ To get back to down version of cocoapods the required steps is as below
 <br><br>
 
 Step 1 - uninstall cocoapods using the command ====> sudo gem uninstall cocoapods
+<br><br>
+
 Step 2 - make sure the pod directory is removed in the machine using the command ====> pod --version ===> it will give response like folder is not found
+<br><br>
+
 Step 3 - so now install the down version by using the command ====> sudo gem install cocoapods -v 1.10.2
+<br><br>
+
 Step 4 - now check the version of cocoa pods with the command ====> pod --version
 <br><br>
