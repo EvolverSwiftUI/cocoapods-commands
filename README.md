@@ -107,5 +107,14 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cd ./tutorial ===> used to change the current working directory 
   <br> ===> . means current directory and /tutorial means go to inside of tutorial directory of current directory
-  
+  <br>
+  cd .. ===> change directory to parent directory from current directory
+  <br>
+  <br>
+  File Paths:
+  <br>
+  1. Absolute Path ===> path from root folder to current file or folder
+  <br>
+  2. Relative Path ====> path from current directory to other file or folder
+  <br>
   
