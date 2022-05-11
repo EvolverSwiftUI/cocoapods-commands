@@ -129,5 +129,11 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   root directory ===> root directory is common for every logged in uses, by default it is same as "/"
   <br>
+  mv src_folder dest_folder ===> rename directory
+  <br>
+  mv src_file dest_folder ===> used to move file to folder
+  <br>
+  cp src_file dest_folder ====> used to copy src file to destination folder
+  <br>
   
   
