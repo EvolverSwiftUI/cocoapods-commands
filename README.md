@@ -119,5 +119,15 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cd ~ ===> used to move to your home directory
   <br>
+  cd <space> ===> also used to move to your home directory
+  <br>
+  cd / ===> used to move to root directory, but not your home directory. remember this point
+  <br>
+  difference between root directory and home directory?
+  <br>
+  home directory ===> created for every logged in used inside root directory
+  <br>
+  root directory ===> root directory is common for every logged in uses, by default it is same as "/"
+  <br>
   
   
