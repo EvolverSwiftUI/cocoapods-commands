@@ -101,6 +101,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   Working with Directories
   <br>
   <br>
+  mkdir tutorials ===> like empty file on touch command, it will also creates an empty directory
+  <br>
   
   
   
