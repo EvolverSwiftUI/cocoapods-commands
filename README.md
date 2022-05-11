@@ -33,3 +33,16 @@ Step 3 - so now install the down version by using the command ====> sudo gem ins
 
 Step 4 - now check the version of cocoa pods with the command ====> pod --version
 <br><br>
+
+<br>
+get swift version ===> swift --version
+<br>
+get ruby version ====> ruby -v
+<br>
+get pod version ===> pod --version
+<br>
+add fastlane file ===> fastlane init
+<br>
+add .gitignore file ===> touch .gitignore
+<br>
+
