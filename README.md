@@ -48,6 +48,8 @@ add .gitignore file ===> touch .gitignore
 add pod file ===> pod init
 <br>
 
+<br> Shell Script Basics
+
 <br>
 to get list of contents ===> ls
 <br>
@@ -55,7 +57,6 @@ to get additional or more details of contents ===> ls -l -h
 <br>
 date ==> displays ssystem date and time 
 <br>
-
 whoami ===> displays who is logged as current user
 <br>
 --help ===> displays list of options to the given command
@@ -68,4 +69,12 @@ history ===> shows last five hundreads of commanmds
 <br>
 exit ====> ends the shell
 <br>
-
+<br>
+Shell Script using on Files and Folders
+<br>
+touch <placeholder for file name> ===> creates an empty file
+<br>
+Eg: <br>
+touch Sample.txt  
+<br>  
+  
