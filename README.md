@@ -117,4 +117,7 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   2. Relative Path ====> path from current directory to other file or folder
   <br>
+  cd ~ ===> used to move to your home directory
+  <br>
+  
   
