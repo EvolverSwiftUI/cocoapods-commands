@@ -70,7 +70,9 @@ history ===> shows last five hundreads of commanmds
 exit ====> ends the shell
 <br>
 <br>
+<br>
 Shell Script using on Files and Folders
+<br>
 <br>
 touch <placeholder for file name> ===> creates an empty file
 <br>
@@ -90,6 +92,14 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   rm Test.txt ===> removes file from that folder or directory
   <br>
   ls -a ===> get all files along with hidden files or folders also
+  <br>
+  . ===> single dot ===> represents the current directory
+  .. ===> double dot ===> represents the parent directory
+ <br>
+  <br>
+  <br>
+  Working with Directories
+  <br>
   <br>
   
   
