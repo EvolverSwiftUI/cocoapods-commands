@@ -45,4 +45,5 @@ add fastlane file ===> fastlane init
 <br>
 add .gitignore file ===> touch .gitignore
 <br>
-
+add pod file ===> pod init
+<br>
