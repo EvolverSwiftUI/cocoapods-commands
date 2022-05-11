@@ -85,5 +85,7 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
 <br>
   mv Sample.txt Test.txt ===> it will used to rename file from source to destination.
   <br>
+  cp src_file dest_file ===> cp Test.txt fun_text.txt ===> it copies content from source file to destination file.
+  <br>
   
   
