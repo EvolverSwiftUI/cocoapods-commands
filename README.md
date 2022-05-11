@@ -119,7 +119,7 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cd ~ ===> used to move to your home directory
   <br>
-  cd <space> ===> also used to move to your home directory
+  cd  ===> also used to move to your home directory
   <br>
   cd / ===> used to move to root directory, but not your home directory. remember this point
   <br>
