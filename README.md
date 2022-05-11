@@ -139,4 +139,6 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cp -r src_folder dest_folder ====> used to create a copy of folder
   <br>
+  rm -r directory_name ===> removes the directory or folder
+  <br>
   
