@@ -50,4 +50,22 @@ add pod file ===> pod init
 
 <br>
 to get list of contents ===> ls
+<br>
 to get additional or more details of contents ===> ls -l -h
+<br>
+date ==> displays ssystem date and time 
+<br>
+
+whoami ===> displays who is logged as current user
+<br>
+--help ===> displays list of options to the given command
+<br>
+man ====> displays user manual for given command
+<br>
+clear ===> clears the shell
+<br>
+history ===> shows last five hundreads of commanmds
+<br>
+exit ====> ends the shell
+<br>
+
