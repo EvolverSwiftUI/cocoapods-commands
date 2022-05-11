@@ -87,5 +87,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cp src_file dest_file ===> cp Test.txt fun_text.txt ===> it copies content from source file to destination file.
   <br>
+  rm Test.txt ===> removes file from that folder or directory
+  <br>
+  
   
   
