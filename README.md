@@ -103,6 +103,9 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   mkdir tutorials ===> like empty file on touch command, it will also creates an empty directory
   <br>
-  
+  pwd ===> gives the current working directory name
+  <br>
+  cd ./tutorial ===> used to change the current working directory 
+  <br> ===> . means current directory and /tutorial means go to inside of tutorial directory of current directory
   
   
