@@ -137,5 +137,6 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   cp src_file dest_folder ====> used to copy src file to destination folder
   <br>
-  
+  cp -r src_folder dest_folder ====> used to create a copy of folder
+  <br>
   
