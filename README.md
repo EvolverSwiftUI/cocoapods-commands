@@ -77,4 +77,13 @@ touch <placeholder for file name> ===> creates an empty file
 Eg: <br>
 touch Sample.txt  
 <br>  
+cat Sample.txt ===> reads the content from that file
+<br>
+echo "Hello, World!" ===> used to print something on console window.  
+<br>
+write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.txt
+<br>
+  mv Sample.txt Test.txt ===> it will used to rename file from source to destination.
+  <br>
+  
   
