@@ -47,3 +47,7 @@ add .gitignore file ===> touch .gitignore
 <br>
 add pod file ===> pod init
 <br>
+
+<br>
+to get list of contents ===> ls
+to get additional or more details of contents ===> ls -l -h
