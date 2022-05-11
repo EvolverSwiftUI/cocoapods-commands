@@ -89,6 +89,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   rm Test.txt ===> removes file from that folder or directory
   <br>
+  ls -a ===> get all files along with hidden files or folders also
+  <br>
   
   
   
