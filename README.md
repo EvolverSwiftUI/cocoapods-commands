@@ -147,3 +147,10 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   cnrl + O and enter ===> it shows how many lines writteen on that file
   cntl + X ===> closes the file and returns to terminal window
   
+  <br>
+  <br>
+  Filtering and Output Redirection
+  <br>
+  <br>
+  
+  
