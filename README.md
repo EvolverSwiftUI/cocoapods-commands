@@ -181,5 +181,10 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   ===> cat return total content and then head filters to first 6 lines and on top that tail return last one line as output
   
   <br>
+  cat sentence.txt  | grep "rain"
+  <br>
+  ===> cat return total content and on top that grep command search with the pattern of "rain".
+  <br>
+  ===> and return the lines which matched the grep command containing pattern.
   
   
