@@ -187,4 +187,10 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   ===> and return the lines which matched the grep command containing pattern.
   
+  <br>
+  cat sentence.txt  | grep "rain" | wc
+  <br>
+  ===> return total number lines matching the pattern finally.
+  <br>
+  
   
