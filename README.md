@@ -255,4 +255,14 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   ===>make sure that directory alredy exist.
   <br>
   
+  zip -r my_collections3.zip sentence.txt videos
+  <br>
+  ===> used to compress the files and folders to given file name here it is "my_collections2"
+  <br>
+  unzip my_collections2.zip -d collection2
+  <br>
+  ===> used to unzip the zipped file
+  <br>
+  
+  
   
