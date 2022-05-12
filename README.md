@@ -165,6 +165,14 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   wc sentence.txt ===> returns number of lines, numbeer of words, number of characters in that file.
   <br>
   
+  <br>
+  Pipiing ===> "|"
+  <br>
+  <br>
+  by using piping(|) we can execute multiple commands.
+  <br>
+  cat sentence.txt | head -2  ====> here cat command reads all content and head command now take as input and returns output as first 2 lines.
+  <br>
   
   
   
