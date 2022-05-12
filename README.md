@@ -174,7 +174,10 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   cat sentence.txt | head -2  ====> here cat command reads all content and head command now take as input and returns output as first 2 lines.
   <br>
   
+  cat sentence.txt | head -6 | tail -1 
+  <br>
+  ===> cat return total content and then head filters to first 6 lines and on top that tail return last one line as output
   
-  
+  <br>
   
   
