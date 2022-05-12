@@ -218,3 +218,15 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   <br>
   
+<br>
+  Output redirection
+  <br>
+  <br>
+  in piping the output is cascaded to next command
+  <br>
+  but here in output redirection, 
+  <br>
+  output of command redirecting to file using ">" 
+  <br>
+  symbol meaning we are writing command output into the file.
+  <br>
