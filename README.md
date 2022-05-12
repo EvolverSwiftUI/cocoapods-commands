@@ -230,3 +230,10 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   symbol meaning we are writing command output into the file.
   <br>
+  <br>
+  sentence.txt | head -6 > learnings.txt
+  <br>
+  ===> here the output of head command is puting inside the learnings.txt file using ">" symbol.
+  <br>
+  
+  
