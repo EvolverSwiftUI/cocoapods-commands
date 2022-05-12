@@ -55,7 +55,7 @@ to get list of contents ===> ls
 <br>
 to get additional or more details of contents ===> ls -l -h
 <br>
-to get list with size as mentioned way ===> ls -l -h --block-size="MB" ===> here block-size will be either "KB" or "MB" or "GB" or etc......
+to get list with size as mentioned way ===> ls -l -h --block-size=MB ===> here block-size will be either KB or MB or GB or etc......
 <br>
 
 date ==> displays ssystem date and time 
