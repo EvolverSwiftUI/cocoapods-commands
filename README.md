@@ -197,4 +197,24 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   ===> return first line on total filterd lines
   <br>
+ 
+  <br>
+  question:
+  <br>
+  Get 10 to 15 lines which containes "rain" in "sentence.txt" file?
+  <br>
+  <br>
+  ANSWER:
+  <br>
+  cat sentence.txt | head -15 | tail -5 | grep "rain"
+  <br>
+  ===> cat command gets total content of file and passed and input to head command  in piping
+  <br>
+  ===> head command picks first 15 lines from top on that content and passed as input to tail command in piping
+  <br>
+  ===> tail command picks on top of that last five lines from bottom and passed as input to grep command in piping
+  <br>
+  ===> now grep command matches the pattern "rain" with the given input and return as output which matches the pattern.
+  <br>
+  <br>
   
