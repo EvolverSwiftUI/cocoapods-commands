@@ -156,4 +156,11 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   <br>
   
+  head -2 sentence.txt ===> by default it returns first 10 lines of file, but here we mention 2 so it written first 2 lines of file.
+  <br>
+  tail -3 sentence.txt ===> by default it returns last 10 lines of file, but here we mention 3 so it written last 3 lines of file. 
+  <br>
+  
+  
+  
   
