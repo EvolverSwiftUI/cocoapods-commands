@@ -142,3 +142,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   rm -r directory_name ===> removes the directory or folder
   <br>
   
+  <br>
+  nano filename ===> it opens file in command line interface
+  cnrl + O and enter ===> it shows how many lines writteen on that file
+  cntl + X ===> closes the file and returns to terminal window
+  
