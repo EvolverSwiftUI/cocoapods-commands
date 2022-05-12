@@ -55,6 +55,9 @@ to get list of contents ===> ls
 <br>
 to get additional or more details of contents ===> ls -l -h
 <br>
+to get list with size as mentioned way ===> ls -l -h --block-size="MB" ===> here block-size will be either "KB" or "MB" or "GB" or etc......
+<br>
+
 date ==> displays ssystem date and time 
 <br>
 whoami ===> displays who is logged as current user
@@ -240,6 +243,12 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   
   Compressing and Uncompressing
   <br>
+  <br>
+  
+  <br>
+  tar -czvf my_collection.tar.gz videos sentence.txt
+  <br>
+  ===> compress the given files and folders and saves to new file as with given name, here it is "my_collections.tar.gz"
   <br>
   
   
