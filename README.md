@@ -238,17 +238,15 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   ===> here the output of head command is puting inside the learnings.txt file using ">" symbol.
   <br>
+  <br>  
   <br>
-  <br>
-  
   Compressing and Uncompressing
   <br>
-  <br>
-  
   <br>
   tar -czvf my_collection.tar.gz videos sentence.txt
   <br>
   ===> compress the given files and folders and saves to new file as with given name, here it is "my_collections.tar.gz"
   <br>
+  
   
   
