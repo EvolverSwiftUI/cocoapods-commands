@@ -160,6 +160,12 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   tail -3 sentence.txt ===> by default it returns last 10 lines of file, but here we mention 3 so it written last 3 lines of file. 
   <br>
+  grep
+  <br>
+  wc sentence.txt ===> returns number of lines, numbeer of words, number of characters in that file.
+  <br>
+  
+  
   
   
   
