@@ -235,5 +235,11 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   ===> here the output of head command is puting inside the learnings.txt file using ">" symbol.
   <br>
+  <br>
+  <br>
+  
+  Compressing and Uncompressing
+  <br>
+  <br>
   
   
