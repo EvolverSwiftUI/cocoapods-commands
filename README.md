@@ -144,8 +144,11 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   
   <br>
   nano filename ===> it opens file in command line interface
+  <br>
   cnrl + O and enter ===> it shows how many lines writteen on that file
+  <br>
   cntl + X ===> closes the file and returns to terminal window
+  <br>
   
   <br>
   <br>
