@@ -193,4 +193,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   ===> return total number lines matching the pattern finally.
   <br>
   
+  cat sentence.txt  | grep "rain" | head -1
+  <br>
+  ===> return first line on total filterd lines
+  <br>
   
