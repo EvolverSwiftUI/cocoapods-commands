@@ -248,5 +248,11 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   ===> compress the given files and folders and saves to new file as with given name, here it is "my_collections.tar.gz"
   <br>
   
+  tar -xzvf my_collection.tar.gz -C collections
+  <br>
+  ===> to un compress we use the above command where extracted files saved under collection folder. 
+  <br>
+  ===>make sure that directory alredy exist.
+  <br>
   
   
