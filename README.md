@@ -1,4 +1,4 @@
-# cocoapods-commands
+# terminal-commands
 
 <br><br>
 
