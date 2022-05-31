@@ -265,4 +265,14 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   <br>
   
   
-  
+  # React Commands From Terminal
+  <br>
+  npx create-react-app <Some-App-Name> ===> creates an app with the given name
+  <br>
+  npm start ===> to start server at port 3000 as a localhost machine
+  <br>
+  npm install <Some-Third-Party-Package-Name> --save 
+  <br>
+  ===> used to install third party package into our react app and also it adds dependency to package.json file.
+  <br>
+  <br>
