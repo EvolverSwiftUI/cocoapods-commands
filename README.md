@@ -276,3 +276,8 @@ write content into the file using ">" symbol ===> echo "Hello, World!" > Sample.
   ===> used to install third party package into our react app and also it adds dependency to package.json file.
   <br>
   <br>
+  # Kill Local Host Servers related processes
+  sudo lsof -i :3000 ===> gives running processes Ids and remaiing details.
+  <br>
+  kill -9 Procee-Id ===> give the node running process ID, to kill the local host servers.
+  <br>
